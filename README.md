@@ -20,14 +20,3 @@ A responsive website that displays available books in the store, along with thei
   <kbd><img src="screenshot/query.png" width="350" height="250"/></kbd>
 </p>
 
-##Setup:
-* Install Xampp if not already installed. Can be downloaded from https://www.apachefriends.org/download.html
-* Place the repository in htdocs folder of xampp
-* Go to Xampp control panel and start apache and MySQL.
-* Import the database bookstore.sql in MySql server.
-* Set up the connection credentials in dbconnect.php </br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="200" height="100"/></kbd>
-* Thats it. Open <a href="http://localhost/bookstore/">localhost/bookstore/</a> in your browser
-
-###Website Link :
-<a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
